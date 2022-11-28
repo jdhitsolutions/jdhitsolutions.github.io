@@ -2,7 +2,7 @@
 
 ![jeff hicks](images/IMG_20180512_183611539.jpg)
 
-## Github
+## GitHub
 
 + [projects](https://github.com/jdhitsolutions)
 + [gists](https://gist.github.com/jdhitsolutions)
