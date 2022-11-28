@@ -1,6 +1,4 @@
-# jdhitsolutions.github.io
-
-Sources and links for Jeff Hicks
+# Sources and links for Jeff Hicks
 
 ![jeff hicks](images/IMG_20180512_183611539.jpg)
 
