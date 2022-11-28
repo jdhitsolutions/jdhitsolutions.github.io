@@ -2,6 +2,11 @@
 
 Sources and links for Jeff Hicks
 
+## Github
+
++ [projects](https://github.com/jdhitsolutions)
++ [gists](https://gist.github.com/jdhitsolutions)
+
 ## Social
 
 + [twitter](https://twitter.com/jeffhicks)
