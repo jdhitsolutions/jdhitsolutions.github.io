@@ -2,6 +2,8 @@
 
 Sources and links for Jeff Hicks
 
+![jeff hicks](images/IMG_20180512_183611539.jpg)
+
 ## Github
 
 + [projects](https://github.com/jdhitsolutions)
@@ -20,4 +22,5 @@ Sources and links for Jeff Hicks
 + [4sysops](https://4sysops.com/members/jeffery-hicks/)
 
 ## Courseware
+
 + [pluralsight](https://pluralsight.pxf.io/qbR6n)
