@@ -5,7 +5,7 @@ Sources and links for Jeff Hicks
 ## Social
 
 + [twitter](https://twitter.com/jeffhicks)
-+ [mastadon](<a rel="me" href="https://techhub.social/@JeffHicks">Mastodon</a>)
++ <a rel="me" href="https://techhub.social/@JeffHicks">mastodon</a>
 
 ## Online Content
 
