@@ -1,4 +1,4 @@
-# Sources and links for Jeff Hicks
+# Sources, Links, and Info for Jeff Hicks
 
 ## Author | Teacher | MVP
 
