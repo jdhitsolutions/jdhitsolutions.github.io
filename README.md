@@ -1,12 +1,12 @@
-# Sources, Links, and Info for Jeff Hicks
+# Sources, Links, and Information for Jeff Hicks
 
 ## Author | Teacher | MVP
 
+![Microsoft MVP](images/MVP_Horizontal_BlueOnly.png)
+
 ![jeff hicks](images/IMG_20180512_183611539.jpg)
 
-![microsoft mvp](images/MVP_Horizontal_BlueOnly.png)
-
-Jeffery Hicks is an IT veteran with more than 30 years of experience, much of it as an IT infrastructure consultant specializing in Microsoft server technologies with an emphasis on automation and efficiency. He is a multi-year recipient of the Microsoft MVP Award. He works today as an independent author, teacher, and consultant. Jeff has taught and presented on PowerShell and the benefits of automation to IT Pros worldwide. He has authored, co-authored, and edited several books, writes for numerous online sites and print publications, is a Pluralsight author, and is a frequent speaker at technology conferences and user groups.
+<img src='images/Windows_PowerShell_icon.png' align='left'/> Jeffery Hicks is an IT veteran with more than 30 years of experience, much of it as an IT infrastructure consultant specializing in Microsoft server technologies with an emphasis on automation and efficiency. He is a multi-year recipient of the Microsoft MVP Award. He works today as an independent author, teacher, and consultant. Jeff has taught and presented PowerShell content and the benefits of automation to IT Pros worldwide. He has authored, co-authored, and edited several books, writes for numerous online sites and print publications, is a Pluralsight author, and is a frequent speaker at technology conferences and user groups.
 
 ### Social
 
@@ -42,3 +42,4 @@ Jeffery Hicks is an IT veteran with more than 30 years of experience, much of it
 + [my YouTube music channel](https://www.youtube.com/channel/UCQgbzJeDQm3zvuHz13UMwZA)
 + [musescore](https://musescore.com/user/26698536)
 + [mvp](https://mvp.microsoft.com/en-us/PublicProfile/4000314)
+
