@@ -1,3 +1,5 @@
-theme: jekyll-theme-minimal
+remote_theme: pages-themes/slate@v0.2.0
+plugins:
+- jekyll-remote-theme
 title: Jeff Hicks Home Page and More
 description: A hub for my online content and links
