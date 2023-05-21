@@ -13,6 +13,7 @@
 + [twitter](https://twitter.com/jeffhicks)
 + <a rel="me" href="https://techhub.social/@JeffHicks">mastodon</a>
 + [linkedin](https://www.linkedin.com/in/jefferyhicks/)
++ [bluesky](https://staging.bsky.app/profile/jeffhicks.bsky.social)
 
 ### Online Content
 
