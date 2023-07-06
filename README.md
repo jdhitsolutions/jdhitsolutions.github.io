@@ -55,7 +55,7 @@ I am an amateur composer in my free time.
 - [my YouTube music channel](https://www.youtube.com/channel/UCQgbzJeDQm3zvuHz13UMwZA)
 - [soundcloud](https://soundcloud.com/jhicks61)
 
-<table>
+<table align="center" cellspacing="0" style="border: none;border-collapse: collapse;">
 <tr>
 <td><img src="images/MVP_Horizontal_BlueOnly.png" alt="MVP Logo"/></td>
 <td>!<img src="images/Honorary-Scripting-Guy_medium.png" alt="Honorary Scripting Guy"/></td>
