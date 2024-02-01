@@ -37,7 +37,7 @@ Unfortunately, Jeff doesn't have the resources to provide one-on-one training, b
 ### Online Content
 
 - [Blog](https://jdhitsolutions.com/blog)
-- [Premium](https://jeffhicks.substack.com)
+- [Premium](https://buttondown.email/behind-the-powershell-pipeline)
 - [Petri](https://petri.com/author/jeff-hicks/)
 - [4Sysops](https://4sysops.com/members/jeffery-hicks/)
 - [YouTube](https://www.youtube.com/channel/UC-UCPvmrflWlgHUuT16hr3w)
