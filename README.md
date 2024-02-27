@@ -1,12 +1,12 @@
-# Links, Sources, and Info for Jeff Hicks
+# Jeffery Hicks
 
-## IT Pro | Speaker | Teacher | Author | MVP
+## IT Pro | Teacher | Author | Speaker | MVP
 
 <p align= "center">
 <img src='images/IMG_20180512_183611539.jpg' alt="Jeff Hicks"/>
 </p>
 
-<img src='images/2023-microsoft-most-valuable-professional-mvp-150x150.png' style="float:left;padding:0px 10px 5px 0px"/> Jeffery Hicks is an IT veteran with over 30 years of experience, much of it spent as an IT infrastructure consultant specializing in Microsoft server technologies with an emphasis on automation and efficiency. He is a multi-year recipient of the Microsoft MVP Award. Jeff is a respected and well-known author, teacher, and consultant. Jeff has taught and presented PowerShell content and the benefits of automation to IT Pros worldwide for the last 20 years. He has authored, co-authored, and edited several books, writes for numerous online sites and print publications, is a Pluralsight author, and is a frequent speaker at technology conferences and user groups.
+<img src='images/2023-microsoft-most-valuable-professional-mvp-150x150.png' style="float:left;padding:0px 10px 5px 0px"/> Jeffery Hicks is an IT veteran with over 30 years of experience, much of it spent as an IT infrastructure consultant specializing in Microsoft server technologies with an emphasis on automation and efficiency. He is a multi-year recipient of the Microsoft MVP Award. Jeff is a respected and well-known author, teacher, and consultant. Jeff has taught and presented PowerShell content and the benefits of automation to IT Pros worldwide for the last 20 years. He has authored, co-authored, and edited several books, contributed to numerous online sites, and, back when it was still a thing, several print publications. Jeff is a Pluralsight author and a frequent speaker at technology conferences and user groups.
 
 Unfortunately, Jeff doesn't have the resources to provide one-on-one training, but if he can be of assistance to your organization, you are welcome to [contact him](mailto:jhicks@jdhitsolutions.com?Subject=Hello) by email.
 
@@ -32,12 +32,12 @@ Unfortunately, Jeff doesn't have the resources to provide one-on-one training, b
 
 - [X](https://twitter.com/jeffhicks)
 - <a rel="me" href="https://techhub.social/@JeffHicks">Mastodon</a>
-- [BlueSky](https://staging.bsky.app/profile/jeffhicks.bsky.social)
+- [BlueSky](https://bsky.app/profile/jeffhicks.bsky.social)
 
 ### Online Content
 
 - [Blog](https://jdhitsolutions.com/blog)
-- [Premium](https://buttondown.email/behind-the-powershell-pipeline)
+- [Premium newsletter](https://buttondown.email/behind-the-powershell-pipeline)
 - [Petri](https://petri.com/author/jeff-hicks/)
 - [4Sysops](https://4sysops.com/members/jeffery-hicks/)
 - [YouTube](https://www.youtube.com/channel/UC-UCPvmrflWlgHUuT16hr3w)
@@ -55,6 +55,9 @@ I am also a member of the [PowerShell Cmdlets](https://github.com/PowerShell/Pow
 - [Learn PowerShell Scripting in a Month of Lunches 2nd. Ed.](https://www.manning.com/books/learn-powershell-scripting-in-a-month-of-lunches-second-edition?a_aid=jdhit&chan=code1&a_aid=jdhit&chan=code1)
 - [The PowerShell Practice Primer](https://leanpub.com/psprimer)
 - [PowerShell Scripting and Toolmaking](https://leanpub.com/powershell-scripting-toolmaking/)
+- [#PS7Now](https://leanpub.com/ps7now)
+- [The PowerShell Conference Book](https://leanpub.com/powershell-conference-book)
+- [PowerShell in Depth](https://www.manning.com/books/powershell-in-depth-second-edition)
 
 ### Courseware
 
@@ -67,6 +70,5 @@ I am an amateur composer in my free time.
 - [MuseScore](https://musescore.com/user/26698536)
 - [My YouTube music channel](https://www.youtube.com/channel/UCQgbzJeDQm3zvuHz13UMwZA)
 - [SoundCloud](https://soundcloud.com/jhicks61)
-
 
 ![MVP](images/MVP_Horizontal_BlueOnly.png) ![honorary scripting guy](images/Honorary-Scripting-Guy_medium.png) ![PowerShell](images/Windows_PowerShell_icon.png)
