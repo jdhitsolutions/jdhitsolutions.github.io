@@ -1,5 +1,5 @@
 remote_theme: pages-themes/slate@v0.2.0
 plugins:
-- jekyll-theme-slate
+- jekyll-remote-theme
 title: You Found Jeff Hicks
 description: A hub for my background information, online content and links
