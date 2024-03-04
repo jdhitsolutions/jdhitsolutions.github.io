@@ -10,9 +10,16 @@
 
 Unfortunately, Jeff doesn't have the resources to provide one-on-one training, but if he can be of assistance to your organization, you are welcome to [contact him](mailto:jhicks@jdhitsolutions.com?Subject=Hello) by email.
 
-### Recent Presentations
+### Recent Appearances
+
+If you are interested in having me appear at your event, please read [this](https://jdhitsolutions.com/blog/conferences/9327/my-conference-future/).
+
+#### The PowerShell Podcast
+
+- [Episode 107 Crafting a Fulfilling Career](https://www.youtube.com/watch?v=5kPqaXb6JjE)
 
 #### Live 360/Techmentor Orlando 2023
+
 - [Managing Active Directory with PowerShell](https://github.com/jdhitsolutions/Techmentor2023-ManagingAD)
 - [Finding Needles - Better EventLog Management with PowerShell](https://github.com/jdhitsolutions/Techmentor2023-EventLogMgmt)
 - [PowerShell Hands-On Workshop](https://github.com/jdhitsolutions/Techmentor2023-PowerShellHOL)
