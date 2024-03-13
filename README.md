@@ -14,6 +14,10 @@ Unfortunately, Jeff doesn't have the resources to provide one-on-one training, b
 
 If you are interested in having me appear at your event, please read [this](https://jdhitsolutions.com/blog/conferences/9327/my-conference-future/).
 
+#### PSUG Rhein Neckar
+
+- [PSStyle and PowerShell](https://github.com/jdhitsolutions/PowerShell-with-Style) *YouTube video coming soon*.
+
 #### The PowerShell Podcast
 
 - [Episode 107 Crafting a Fulfilling Career](https://www.youtube.com/watch?v=5kPqaXb6JjE)
