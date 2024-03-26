@@ -16,7 +16,9 @@ If you are interested in having me appear at your event, please read [this](http
 
 #### PSUG Rhein Neckar
 
-- [PSStyle and PowerShell](https://github.com/jdhitsolutions/PowerShell-with-Style) *YouTube video coming soon*.
+- PSStyle and PowerShell
+  - [Code samples](https://github.com/jdhitsolutions/PowerShell-with-Style)
+  - View the recording on [YouTube](https://www.youtube.com/watch?v=6LySy7rrUO8).
 
 #### The PowerShell Podcast
 
