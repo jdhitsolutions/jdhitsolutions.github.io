@@ -24,6 +24,10 @@ If you are interested in having me appear at your event, please read [this](http
 
 - [Episode 107 Crafting a Fulfilling Career](https://www.youtube.com/watch?v=5kPqaXb6JjE)
 
+#### PowerShell UserGroup Inn-Salzach
+
+- [PowerShell Pet Projects](https://www.youtube.com/watch?v=9vqTDF3u5l8&t=1s)
+
 #### Live 360/Techmentor Orlando 2023
 
 - [Managing Active Directory with PowerShell](https://github.com/jdhitsolutions/Techmentor2023-ManagingAD)
