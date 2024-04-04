@@ -14,6 +14,12 @@ Unfortunately, Jeff doesn't have the resources to provide one-on-one training, b
 
 If you are interested in having me appear at your event, please read [this](https://jdhitsolutions.com/blog/conferences/9327/my-conference-future/).
 
+#### [Research Triangle PowerShell User Group](https://www.meetup.com/Research-Triangle-PowerShell-Users-Group/)
+
+- Writing Better PowerShell Code
+  - [Session material and code samples](https://gist.github.com/jdhitsolutions/a2f3a246c929a91e494601fa1c44fa55)
+  - YouTube recording pending
+
 #### PSUG Rhein Neckar
 
 - PSStyle and PowerShell
