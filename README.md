@@ -1,6 +1,6 @@
 # Jeffery Hicks
 
-## IT Pro | Teacher | Author | Speaker | MVP
+## IT Pro | Teacher | Author | Speaker | Microsoft MVP
 
 <p align= "center">
 <img src='images/IMG_20180512_183611539.jpg' alt="Jeff Hicks"/>
@@ -13,6 +13,11 @@ Unfortunately, Jeff doesn't have the resources to provide one-on-one training, b
 ### Recent Appearances
 
 If you are interested in having me appear at your event, please read [this](https://jdhitsolutions.com/blog/conferences/9327/my-conference-future/).
+
+#### [Twin Cities Systems Management User Group](https://tcsmug.org/)
+
+- [PowerShell Scripting and Toolmaking](https://github.com/jdhitsolutions/PSScriptingToolmaking)
+- *This presentation was not recorded*.
 
 #### [Research Triangle PowerShell User Group](https://www.meetup.com/Research-Triangle-PowerShell-Users-Group/)
 
