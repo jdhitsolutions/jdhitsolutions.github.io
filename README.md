@@ -6,13 +6,13 @@
 <img src='images/IMG_20180512_183611539.jpg' alt="Jeff Hicks"/>
 </p>
 
-<img src='images/2023-microsoft-most-valuable-professional-mvp-150x150.png' style="float:left;padding:0px 10px 5px 0px"/> Jeffery Hicks is an IT veteran with over 30 years of experience, much of it spent as an IT infrastructure consultant specializing in Microsoft server technologies with an emphasis on automation and efficiency. He is a multi-year recipient of the Microsoft MVP Award. Jeff is a respected and well-known author, teacher, and consultant. Jeff has taught and presented PowerShell content and the benefits of automation to IT Pros worldwide for the last 20 years. He has authored, co-authored, and edited several books, contributed to numerous online sites, and, back when it was still a thing, several print publications. Jeff is a Pluralsight author and a frequent speaker at technology conferences and user groups.
+<img src='images/2023-microsoft-most-valuable-professional-mvp-150x150.png' style="float:left;padding:0px 10px 5px 0px"/> Jeffery Hicks is an IT veteran with almost 35 years of experience, much of it spent as an IT infrastructure consultant specializing in Microsoft server technologies with an emphasis on automation and efficiency. He is a multi-year recipient of the Microsoft MVP Award. Jeff is a respected and well-known author, teacher, and consultant. Jeff has taught and presented PowerShell content and the benefits of automation to IT Pros worldwide for the last 20 years. He has authored, co-authored, and edited several books, contributed to numerous online sites, and, back when it was still a thing, several print publications. Jeff is a Pluralsight author and a frequent speaker at technology conferences and user groups.
 
 Unfortunately, Jeff doesn't have the resources to provide one-on-one training, but if he can be of assistance to your organization, you are welcome to [contact him](mailto:jhicks@jdhitsolutions.com?Subject=Hello) by email.
 
 ### Recent Appearances
 
-If you are interested in having me appear at your event, please read [this](https://jdhitsolutions.com/blog/conferences/9327/my-conference-future/).
+If you are interested in having me appear or present at your event, please read [my speaker requirements](https://jdhitsolutions.com/blog/conferences/9327/my-conference-future/).
 
 #### [Twin Cities Systems Management User Group](https://tcsmug.org/)
 
@@ -64,8 +64,8 @@ If you are interested in having me appear at your event, please read [this](http
 
 ### Online Content
 
-- [Blog](https://jdhitsolutions.com/blog)
 - [Premium newsletter](https://buttondown.email/behind-the-powershell-pipeline)
+- [Blog](https://jdhitsolutions.com/blog)
 - [Petri](https://petri.com/author/jeff-hicks/)
 - [4Sysops](https://4sysops.com/members/jeffery-hicks/)
 - [YouTube](https://www.youtube.com/channel/UC-UCPvmrflWlgHUuT16hr3w)
@@ -79,10 +79,10 @@ I am also a member of the [PowerShell Cmdlets](https://github.com/PowerShell/Pow
 
 ### Books
 
-- [Learn PowerShell in a Month of Lunches 4th Ed.](https://www.manning.com/books/learn-powershell-in-a-month-of-lunches?a_aid=jdhit&chan=code1)
-- [Learn PowerShell Scripting in a Month of Lunches 2nd. Ed.](https://www.manning.com/books/learn-powershell-scripting-in-a-month-of-lunches-second-edition?a_aid=jdhit&chan=code1&a_aid=jdhit&chan=code1)
 - [The PowerShell Practice Primer](https://leanpub.com/psprimer)
 - [PowerShell Scripting and Toolmaking](https://leanpub.com/powershell-scripting-toolmaking/)
+- [Learn PowerShell in a Month of Lunches 4th Ed.](https://www.manning.com/books/learn-powershell-in-a-month-of-lunches?a_aid=jdhit&chan=code1)
+- [Learn PowerShell Scripting in a Month of Lunches 2nd. Ed.](https://www.manning.com/books/learn-powershell-scripting-in-a-month-of-lunches-second-edition?a_aid=jdhit&chan=code1&a_aid=jdhit&chan=code1)
 - [#PS7Now](https://leanpub.com/ps7now)
 - [The PowerShell Conference Book](https://leanpub.com/powershell-conference-book)
 - [PowerShell in Depth](https://www.manning.com/books/powershell-in-depth-second-edition)
