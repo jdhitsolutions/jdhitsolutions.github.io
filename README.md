@@ -23,7 +23,7 @@ If you are interested in having me appear or present at your event, please read 
 
 - Writing Better PowerShell Code
   - [Session material and code samples](https://gist.github.com/jdhitsolutions/a2f3a246c929a91e494601fa1c44fa55)
-  - YouTube recording pending
+  - View the presentation on [YouTube](https://www.youtube.com/watch?v=WxoO1KJqCxU)
 
 #### PSUG Rhein Neckar
 
