@@ -8,7 +8,7 @@
 
 <img src='images/2023-microsoft-most-valuable-professional-mvp-150x150.png' style="float:left;padding:0px 10px 5px 0px"/> Jeffery Hicks is an IT veteran with almost 35 years of experience, much of it spent as an IT infrastructure consultant specializing in Microsoft server technologies with an emphasis on automation and efficiency. He is a multi-year recipient of the Microsoft MVP Award. Jeff is a respected and well-known author, teacher, and consultant. He has taught and presented PowerShell content and the benefits of automation to IT Pros worldwide for the last 20 years. He has authored, co-authored, and edited several books, contributed to numerous online sites, and, back when it was still a thing, several print publications. Jeff is a Pluralsight author and a frequent speaker at technology conferences and user groups.
 
-Unfortunately, Jeff doesn't have the resources to provide one-on-one training, but if he can be of assistance to your organization, you are welcome to [contact him](mailto:jhicks@jdhitsolutions.com?Subject=Hello) by email.
+Unfortunately, Jeff doesn't have the resources to provide one-on-one training, but if he can be of assistance to your organization, you are welcome to [contact him](mailto:jhicks@jdhitsolutions.com?Subject=Hello) by email. Jeff' onsite classes are hands-on and customized to meet the client's needs
 
 ### Recent Public Appearances
 
@@ -64,10 +64,10 @@ If I have spoken at a conference that you run, or you would like me to present a
 
 ### Online Content
 
-- [Premium newsletter](https://buttondown.email/behind-the-powershell-pipeline)
+- [Premium newsletter - Behind the PowerShell Pipeline](https://jdhitsolutions.com/newsletter)
 - [Blog](https://jdhitsolutions.com/blog)
-- [Petri](https://petri.com/author/jeff-hicks/)
-- [4Sysops](https://4sysops.com/members/jeffery-hicks/)
+- [Petri.com](https://petri.com/author/jeff-hicks/)
+- [4Sysops.com](https://4sysops.com/members/jeffery-hicks/)
 - [YouTube](https://www.youtube.com/channel/UC-UCPvmrflWlgHUuT16hr3w)
 
 ### GitHub
