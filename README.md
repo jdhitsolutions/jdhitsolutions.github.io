@@ -2,13 +2,13 @@
 
 ## IT Pro | Teacher | Author | Speaker | Microsoft MVP
 
-<p align= "center">
-<img src='images/IMG_20180512_183611539-large.jpg' alt="Jeff Hicks"/>
-</p>
+<img src='images/jdh-oct2024.png' alt="Jeff Hicks" style="float:left;padding:0px 10px 5px 0px"/>Jeffery Hicks is an IT veteran with almost 35 years of experience, much of it spent as an IT infrastructure consultant specializing in Microsoft server technologies with an emphasis on automation and efficiency. He is a multi-year recipient of the Microsoft MVP Award for his work in PowerShell.
 
-<img src='images/2023-microsoft-most-valuable-professional-mvp-150x150.png' style="float:left;padding:0px 10px 5px 0px"/> Jeffery Hicks is an IT veteran with almost 35 years of experience, much of it spent as an IT infrastructure consultant specializing in Microsoft server technologies with an emphasis on automation and efficiency. He is a multi-year recipient of the Microsoft MVP Award. Jeff is a respected and well-known author, teacher, and consultant. He has taught and presented PowerShell content and the benefits of automation to IT Pros worldwide for the last 20 years. He has authored, co-authored, and edited several books, contributed to numerous online sites, and, back when it was still a thing, several print publications. Jeff is a Pluralsight author and a frequent speaker at technology conferences and user groups.
+Jeff is a respected and well-known author, teacher, and consultant. He has taught and presented PowerShell content and the benefits of automation to IT Pros worldwide for the last 20 years. He has authored, co-authored, and edited several books, contributed to numerous online sites, and, back when it was still a thing, several print publications. Jeff is a Pluralsight author and a frequent speaker at technology conferences and user groups.
 
 Unfortunately, Jeff doesn't have the resources to provide one-on-one training, but if he can be of assistance to your organization, you are welcome to [contact him](mailto:jhicks@jdhitsolutions.com?Subject=Hello) by email. Jeff's onsite classes are hands-on and customized to meet the client's needs
+
+<img src='' style="float:left;padding:0px 10px 5px 0px"/>
 
 ### Recent Public Appearances
 
@@ -105,4 +105,4 @@ In my free time, I dabble at composing music.
 - [My YouTube music channel](https://www.youtube.com/channel/UCQgbzJeDQm3zvuHz13UMwZA)
 - [SoundCloud](https://soundcloud.com/jhicks61)
 
-![MVP](images/MVP_Horizontal_BlueOnly.png) ![honorary scripting guy](images/Honorary-Scripting-Guy_medium.png) ![PowerShell](images/Windows_PowerShell_icon.png)
+![MVP](images/2023-microsoft-most-valuable-professional-mvp-150x150.png) ![honorary scripting guy](images/Honorary-Scripting-Guy_medium.png) ![PowerShell](images/Windows_PowerShell_icon.png)
