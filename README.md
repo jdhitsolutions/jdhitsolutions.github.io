@@ -55,10 +55,11 @@ If I have spoken at a conference that you run, or you would like me to present a
 - [LinkedIn](https://www.linkedin.com/in/jefferyhicks/)
 - [Microsoft MVP](https://mvp.microsoft.com/en-us/PublicProfile/4000314)
 - [DevOps Collective Board of Advisors](https://devopscollective.org/about/)
+- [Sessionize](https://sessionize.com/jeff-hicks)
 
 ### Social Links
 
-My [X/Twitter](https://x.com/jeffhicks) account is inactive and in a read-only mode. I am not actively monitoring or responding to messages on these platforms. For engagement, please use either [BlueSky](https://bsky.app/profile/jdhitsolutions.com) or <a rel="me" href="https://techhub.social/@JeffHicks">Mastodon</a>
+My [X/Twitter](https://x.com/jeffhicks) account is inactive and in read-only mode. I am not actively monitoring or responding to messages on these platforms. For engagement, please use either [BlueSky](https://bsky.app/profile/jdhitsolutions.com) or <a rel="me" href="https://techhub.social/@JeffHicks">Mastodon</a>
 
 
 ### Online Content
