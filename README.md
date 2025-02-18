@@ -2,9 +2,9 @@
 
 ## IT Pro | Teacher | Author | Speaker | Microsoft MVP
 
-<img src='images/jdh-oct2024.png' alt="Jeff Hicks" style="float:left;padding:0px 10px 5px 10px"/>Jeffery Hicks is an IT veteran with almost 35 years of experience, much of it spent as an IT infrastructure professional specializing in Microsoft server technologies with an emphasis on automation and efficiency. He is a multi-year recipient of the Microsoft MVP Award for his work in PowerShell.
+<img src='images/jdh-oct2024.png' alt="Jeff Hicks" style="float:left;padding:0px 10px 5px 10px"/>Jeffery Hicks is an IT Pro veteran with 35 years of experience, much of it spent as an IT infrastructure professional specializing in Microsoft server technologies with an emphasis on automation and efficiency. He has been a Microsoft MVP since 2007 for his work in PowerShell.
 
-Jeff is a respected and well-known author, teacher, and consultant. He has taught or presented PowerShell content and the benefits of automation to IT Pros worldwide for the last 25 years. He has authored, co-authored, and edited several books, contributed to numerous online sites, and, back when it was still a thing, several print publications. Jeff is a Pluralsight author and a frequent speaker at technology conferences and user groups.
+Jeff is a respected and well-known author, teacher, and consultant. He has taught or presented PowerShell content and the benefits of automation to IT Pros worldwide since its inception. He has authored, co-authored, and edited several books, contributed to numerous online sites, and, back when it was still a thing, several print publications. Jeff is a Pluralsight author and a frequent speaker at technology conferences and user groups.
 
 Unfortunately, Jeff doesn't have the resources to provide one-on-one training, but if he can be of assistance to your organization, you are welcome to [contact him](mailto:jhicks@jdhitsolutions.com?Subject=Hello) by email. Jeff's onsite classes are hands-on and customized to meet the client's needs.
 
@@ -86,8 +86,9 @@ I am also a member of the [PowerShell Cmdlets](https://github.com/PowerShell/Pow
 
 ### Books
 
-- [The PowerShell Practice Primer](https://leanpub.com/psprimer)
-- [PowerShell Scripting and Toolmaking](https://leanpub.com/powershell-scripting-toolmaking/)
+- [Behind the PowerShell Pipeline](https://jdhitsolutions.com/yourls/psbehind)
+- [The PowerShell Practice Primer](https://jdhitsolutions.com/yourls/psprimer)
+- [PowerShell Scripting and Toolmaking](https://jdhitsolutions.com/yourls/pstoolmaking)
 - [Learn PowerShell in a Month of Lunches 4th Ed.](https://www.manning.com/books/learn-powershell-in-a-month-of-lunches?a_aid=jdhit&chan=code1)
 - [Learn PowerShell Scripting in a Month of Lunches 2nd. Ed.](https://www.manning.com/books/learn-powershell-scripting-in-a-month-of-lunches-second-edition?a_aid=jdhit&chan=code1&a_aid=jdhit&chan=code1)
 - [#PS7Now](https://leanpub.com/ps7now)
