@@ -129,4 +129,4 @@ In my free time, I dabble at composing music.
 - [My YouTube music channel](https://www.youtube.com/channel/UCQgbzJeDQm3zvuHz13UMwZA)
 - [SoundCloud](https://soundcloud.com/jhicks61)
 
-![MVP](images/2023-microsoft-most-valuable-professional-mvp-150x150.png) ![honorary scripting guy](images/Honorary-Scripting-Guy_medium.png) ![PowerShell](images/Windows_PowerShell_icon.png)
+[![MVP](images/2023-microsoft-most-valuable-professional-mvp-150x150.png "View my MVP profile")](https://mvp.microsoft.com/en-US/MVP/profile/58fe8fa8-3c9a-e411-93f2-9cb65495d3c4) ![honorary scripting guy](images/Honorary-Scripting-Guy_medium.png) ![PowerShell](images/Windows_PowerShell_icon.png)
