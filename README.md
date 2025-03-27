@@ -8,26 +8,47 @@ Jeff is a respected and well-known author, teacher, and consultant. He has taugh
 
 Unfortunately, Jeff doesn't have the resources to provide one-on-one training, but if he can be of assistance to your organization, you are welcome to [contact him](mailto:jhicks@jdhitsolutions.com?Subject=Hello) by email. Jeff's onsite classes are hands-on and customized to meet the client's needs.
 
-<img src='' style="float:left;padding:0px 10px 5px 0px"/>
+### Upcoming Events
 
-### Recent Public Appearances
+[![PowerShell + DevOps Global Summit 2025](images/pssummit25.png "Checkout the schedule")](https://powershellsummit.org/)
+
+- The Human Side of PowerShell Scripting
+
+[![WorkPlace Ninjas UK](images/eventbanner.png "Register Now!")](https://wpninjas.uk/)
+
+- Building Better PowerShell Reports
+- Building Better PowerShell Tools
+
+[![PSConfEU 2025](images/HICKS-social.png "Register Now!")](https://psconfeu.eu/)
+
+- The Human Side of PowerShell Scripting
+- Supercharging Objects in the Pipeline
+
+### Recent Public Appearances and Presentations
 
 If I have spoken at a conference that you run, or you would like me to present at a future event, please read my [Public Presentation Policy](https://gist.github.com/jdhitsolutions/d0f1eeae99878a10f8132a44747db47a).
 
-#### [Twin Cities Systems Management User Group](https://tcsmug.org/)
+#### [RunAs Radio Show #977](https://runasradio.com/Shows/Show/977)
 
-- [PowerShell Scripting and Toolmaking](https://github.com/jdhitsolutions/PSScriptingToolmaking)
-- *This presentation was not recorded*.
+- Writing Better PowerShell (26 March 2025)
 
 #### [Research Triangle PowerShell User Group](https://www.meetup.com/Research-Triangle-PowerShell-Users-Group/)
 
-- Writing Better PowerShell Code
+- Getting Started with Custom Formatting (5 March 2025)
+  - [Session material and Code Samples](https://github.com/jdhitsolutions/PSCustomFormatting)
+  - Video recording coming soon.
+- Writing Better PowerShell Code (23 April 2024)
   - [Session material and code samples](https://gist.github.com/jdhitsolutions/a2f3a246c929a91e494601fa1c44fa55)
   - View the presentation on [YouTube](https://www.youtube.com/watch?v=WxoO1KJqCxU)
 
+#### [Twin Cities Systems Management User Group](https://tcsmug.org/)
+
+- [PowerShell Scripting and Toolmaking](https://github.com/jdhitsolutions/PSScriptingToolmaking) (15 April 2024)
+- *This presentation was not recorded*.
+
 #### PSUG Rhein Neckar
 
-- PSStyle and PowerShell
+- PSStyle and PowerShell (13 March 2024)
   - [Code samples](https://github.com/jdhitsolutions/PowerShell-with-Style)
   - View the recording on [YouTube](https://www.youtube.com/watch?v=6LySy7rrUO8).
 
@@ -59,8 +80,7 @@ If I have spoken at a conference that you run, or you would like me to present a
 
 ### Social Links
 
-My [X/Twitter](https://x.com/jeffhicks) account is inactive and in read-only mode. I am not actively monitoring or responding to messages on these platforms. For engagement, please use either [BlueSky](https://bsky.app/profile/jdhitsolutions.com) or <a rel="me" href="https://techhub.social/@JeffHicks">Mastodon</a>
-
+My [X/Twitter](https://x.com/jeffhicks) account is inactive and in read-only mode. I am not actively monitoring or responding to messages on this platform. For engagement, please use either [BlueSky](https://bsky.app/profile/jdhitsolutions.com) or <a rel="me" href="https://techhub.social/@JeffHicks">Mastodon</a>
 
 ### Online Content
 
@@ -68,6 +88,8 @@ My [X/Twitter](https://x.com/jeffhicks) account is inactive and in read-only mod
 
 #### Recent Articles
 
+- [Mastering Changelog Management with PowerShell](https://www.scriptrunner.com/en/blog/what-is-a-changelog-and-how-to-manage-it)
+- [How to Use Winget and PowerShell for Efficient App Deployment](https://www.scriptrunner.com/en/blog/master-managing-winget-powershell)
 - [Five Reasons You Should Be Using PSReadLine](https://www.scriptrunner.com/en/blog/5-reasons-to-use-psreadline)
 
 #### Older Online Material
