@@ -19,7 +19,7 @@ Unfortunately, Jeff doesn't have the resources to provide one-on-one training, b
 - Building Better PowerShell Reports
 - Building Better PowerShell Tools
 
-[![PSConfEU 2025](images/HICKS-social.png "Register Now!")](https://psconfeu.eu/)
+[![PSConfEU 2025](images/HICKS-social.png "Register Now!")](https://psconf.eu/)
 
 - The Human Side of PowerShell Scripting
 - Supercharging Objects in the Pipeline
