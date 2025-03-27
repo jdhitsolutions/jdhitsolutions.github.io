@@ -41,6 +41,11 @@ If I have spoken at a conference that you run, or you would like me to present a
   - [Session material and code samples](https://gist.github.com/jdhitsolutions/a2f3a246c929a91e494601fa1c44fa55)
   - View the presentation on [YouTube](https://www.youtube.com/watch?v=WxoO1KJqCxU)
 
+#### [Pacific PowerShell User Group](https://www.meetup.com/pacific-powershell-user-group/)
+
+- [Reaching for the Bluesky](https://www.meetup.com/pacific-powershell-user-group/events/305394632/?eventOrigin=group_past_events) (15 Jan 2025)
+  - video unavailable
+
 #### [Twin Cities Systems Management User Group](https://tcsmug.org/)
 
 - [PowerShell Scripting and Toolmaking](https://github.com/jdhitsolutions/PSScriptingToolmaking) (15 April 2024)
