@@ -10,10 +10,6 @@ Unfortunately, Jeff doesn't have the resources to provide one-on-one training, b
 
 ### Upcoming Events
 
-[![PowerShell + DevOps Global Summit 2025](images/pssummit25.png "Checkout the schedule")](https://powershellsummit.org/)
-
-- The Human Side of PowerShell Scripting
-
 [![WorkPlace Ninjas UK](images/eventbanner.png "Register Now!")](https://wpninjas.uk/)
 
 - Building Better PowerShell Reports
@@ -28,6 +24,10 @@ Unfortunately, Jeff doesn't have the resources to provide one-on-one training, b
 
 If I have spoken at a conference that you run, or you would like me to present at a future event, please read my [Public Presentation Policy](https://gist.github.com/jdhitsolutions/d0f1eeae99878a10f8132a44747db47a).
 
+#### [PowerShell + DevOps Global Summit 2025](https://powershellsummit.org)
+
+- The Human Side of PowerShell Scripting (9 April 2025)
+
 #### [RunAs Radio Show #977](https://runasradio.com/Shows/Show/977)
 
 - Writing Better PowerShell (26 March 2025)
@@ -36,7 +36,7 @@ If I have spoken at a conference that you run, or you would like me to present a
 
 - Getting Started with Custom Formatting (5 March 2025)
   - [Session material and Code Samples](https://github.com/jdhitsolutions/PSCustomFormatting)
-  - Video recording coming soon.
+  - View the presentation on [YouTube](https://youtu.be/9CTJNHXJzwU?si=PLlI5S9B3rqwg7hf)
 - Writing Better PowerShell Code (23 April 2024)
   - [Session material and code samples](https://gist.github.com/jdhitsolutions/a2f3a246c929a91e494601fa1c44fa55)
   - View the presentation on [YouTube](https://www.youtube.com/watch?v=WxoO1KJqCxU)
