@@ -10,15 +10,7 @@ Unfortunately, Jeff doesn't have the resources to provide one-on-one training, b
 
 ### Upcoming Events
 
-[![WorkPlace Ninjas UK](images/eventbanner.png "Register Now!")](https://wpninjas.uk/)
-
-- Building Better PowerShell Reports
-- Building Better PowerShell Tools
-
-[![PSConfEU 2025](images/HICKS-social.png "Register Now!")](https://psconf.eu/)
-
-- The Human Side of PowerShell Scripting
-- Supercharging Objects in the Pipeline
+*Let's connect and see what I can do for you!*
 
 ### Recent Public Appearances and Presentations
 
@@ -27,6 +19,7 @@ If I have spoken at a conference that you run, or you would like me to present a
 #### [PowerShell + DevOps Global Summit 2025](https://powershellsummit.org)
 
 - The Human Side of PowerShell Scripting (9 April 2025)
+  - Watch the presentation on [YouTube](https://www.youtube.com/watch?v=4xVDorpEhm8&list=PLfeA8kIs7CoftB7JKZTiUKnVUHIMtwYF5&index=24)
 
 #### [RunAs Radio Show #977](https://runasradio.com/Shows/Show/977)
 
