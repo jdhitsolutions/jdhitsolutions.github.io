@@ -82,7 +82,7 @@ My [X/Twitter](https://x.com/jeffhicks) account is inactive and in read-only mod
 
 ### Online Content
 
-- [Premium newsletter - Behind the PowerShell Pipeline](https://jdhitsolutions.com/newsletter)
+- [Premium PowerShell Tutorials - Behind the PowerShell Pipeline](https://jdhitsolutions.com/newsletter)
 
 #### Recent Articles
 
