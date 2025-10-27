@@ -16,6 +16,11 @@ Unfortunately, Jeff doesn't have the resources to provide one-on-one training, b
 
 If I have spoken at a conference that you run, or you would like me to present at a future event, please read my [Public Presentation Policy](https://gist.github.com/jdhitsolutions/d0f1eeae99878a10f8132a44747db47a).
 
+#### [PSConfEU MiniCon 2025](https://synedgy.com/psconfeu-minicon/)
+
+- The Human Side of PowerShell Scripting (14 October 2025)
+  - Watch the presentation on [YouTube](https://www.youtube.com/watch?v=59PQ9qB4ilo)
+
 #### [PowerShell + DevOps Global Summit 2025](https://powershellsummit.org)
 
 - The Human Side of PowerShell Scripting (9 April 2025)
@@ -84,7 +89,7 @@ My [X/Twitter](https://x.com/jeffhicks) account is inactive and in read-only mod
 
 - [Premium PowerShell Tutorials - Behind the PowerShell Pipeline](https://jdhitsolutions.com/newsletter)
 
-#### Recent Articles
+#### OnlineArticles
 
 - [Mastering Changelog Management with PowerShell](https://www.scriptrunner.com/en/blog/what-is-a-changelog-and-how-to-manage-it)
 - [How to Use Winget and PowerShell for Efficient App Deployment](https://www.scriptrunner.com/en/blog/master-managing-winget-powershell)
@@ -105,6 +110,8 @@ My [X/Twitter](https://x.com/jeffhicks) account is inactive and in read-only mod
 I am also a member of the [PowerShell Cmdlets](https://github.com/PowerShell/PowerShell/blob/master/docs/community/working-group-definitions.md#cmdlets-and-modules) working group.
 
 ### Books
+
+Books published on Leanpub often include a supplemental download with code samples.
 
 - [Behind the PowerShell Pipeline](https://jdhitsolutions.com/yourls/psbehind)
 - [The PowerShell Practice Primer](https://jdhitsolutions.com/yourls/psprimer)
