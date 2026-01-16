@@ -10,11 +10,35 @@ Unfortunately, Jeff doesn't have the resources to provide one-on-one training, b
 
 ### Upcoming Events
 
+- [PowerShell + DevOps Global Summit 2026 - Bellevue, WA](https://powershellsummit.org) (April 13-16 2026)
+  - Master PowerShell Parameters
+
+- [PSConfEU 2026 - Wiesbaden, Germany](https://psconf.eu) (June 1-4 2026)
+  - PowerShell Scripting Hidden Secrets
+  - Embracing Events in PowerShell
+
 *Let's connect and see what I can do for you!*
 
 ### Recent Public Appearances and Presentations
 
 If I have spoken at a conference that you run, or you would like me to present at a future event, please read my [Public Presentation Policy](https://gist.github.com/jdhitsolutions/d0f1eeae99878a10f8132a44747db47a).
+
+#### [PSConfEU MiniCon 2025](https://www.youtube.com/playlist?list=PLDCEho7foSorZKs9Vc7XKU7Dn5jwK2O2L) (14 October 2025)
+
+- [The Human Side of PowerShell Scripting](https://youtu.be/59PQ9qB4ilo)
+
+#### PDQ Live Finale (18 December 2025)
+
+- [PowerShell Hour](https://www.youtube.com/live/cPhHR_Cdwsk?si=8nIqfgEA9dbC_cMC&t=5650)
+
+#### PowerShell Wednesday
+
+- [PowerShell Daily Workflow Tools](https://www.youtube.com/watch?v=lBLDfE1aiuE&list=PL1mL90yFExsix-L0havb8SbZXoYRPol0B&index=4) (3 December 2025 )
+
+#### [PowerShell Podcast](https://powershellpodcast.podbean.com)
+
+- [Living in PowerShell](https://powershellpodcast.podbean.com/e/living-in-powershell-with-jeff-hicks/) (22 Dec 2025)
+  - Watch on [YouTube](https://www.youtube.com/watch?v=lKKfmdDtBOU)
 
 #### [PSConfEU MiniCon 2025](https://synedgy.com/psconfeu-minicon/)
 
@@ -43,36 +67,6 @@ If I have spoken at a conference that you run, or you would like me to present a
 
 - [Reaching for the Bluesky](https://www.meetup.com/pacific-powershell-user-group/events/305394632/?eventOrigin=group_past_events) (15 Jan 2025)
   - video unavailable
-
-#### [Twin Cities Systems Management User Group](https://tcsmug.org/)
-
-- [PowerShell Scripting and Toolmaking](https://github.com/jdhitsolutions/PSScriptingToolmaking) (15 April 2024)
-- *This presentation was not recorded*.
-
-#### PSUG Rhein Neckar
-
-- PSStyle and PowerShell (13 March 2024)
-  - [Code samples](https://github.com/jdhitsolutions/PowerShell-with-Style)
-  - View the recording on [YouTube](https://www.youtube.com/watch?v=6LySy7rrUO8).
-
-#### The PowerShell Podcast
-
-- [Episode 107 Crafting a Fulfilling Career](https://www.youtube.com/watch?v=5kPqaXb6JjE)
-
-#### PowerShell UserGroup Inn-Salzach
-
-- [PowerShell Pet Projects](https://www.youtube.com/watch?v=9vqTDF3u5l8&t=1s)
-
-#### Live 360/Techmentor Orlando 2023
-
-- [Managing Active Directory with PowerShell](https://github.com/jdhitsolutions/Techmentor2023-ManagingAD)
-- [Finding Needles - Better EventLog Management with PowerShell](https://github.com/jdhitsolutions/Techmentor2023-EventLogMgmt)
-- [PowerShell Hands-On Workshop](https://github.com/jdhitsolutions/Techmentor2023-PowerShellHOL)
-
-#### [MMS Miami 2023](https://github.com/jdhitsolutions/MMSMiami-2023)
-
-- [Managing at Scale](https://github.com/jdhitsolutions/MMSMiami-2023/tree/main/ManagingAtScale)
-- [PowerShell Toolmaking Patterns and Practices](https://github.com/jdhitsolutions/MMSMiami-2023/tree/main/PSToolMakingPatterns)
 
 ### Professional Links
 
