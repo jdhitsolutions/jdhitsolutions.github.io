@@ -10,9 +10,6 @@ Unfortunately, Jeff doesn't have the resources to provide one-on-one training, b
 
 ### Upcoming Events
 
-- [PowerShell + DevOps Global Summit 2026 - Bellevue, WA](https://powershellsummit.org) (April 13-16 2026)
-  - Master PowerShell Parameters
-
 - [PSConfEU 2026 - Wiesbaden, Germany](https://psconf.eu) (June 1-4 2026)
   - PowerShell Scripting Hidden Secrets
   - Embracing Events in PowerShell
@@ -22,6 +19,20 @@ Unfortunately, Jeff doesn't have the resources to provide one-on-one training, b
 ### Recent Public Appearances and Presentations
 
 If I have spoken at a conference that you run, or you would like me to present at a future event, please read my [Public Presentation Policy](https://gist.github.com/jdhitsolutions/d0f1eeae99878a10f8132a44747db47a).
+
+#### [PowerShell + DevOps Global Summit 2026 - Bellevue, WA](https://powershellsummit.org) (April 13-16 2026)
+
+- Master PowerShell Parameters (video coming)
+  - session materials can be found at https://github.com/devops-collective-inc/pshsummit26/tree/main/MasterPowerShellParameters-Hicks
+- PowerShell Perspectives (video coming)
+
+#### The PowerShell Podcast (13 April 2026)
+
+- [PowerShell Wisdom from 35 Years in the Trenches with Jeff Hicks](https://powershellpodcast.podbean.com/e/powershell-wisdom-from-35-years-in-the-trenches-with-jeff-hicks/)
+
+#### PowerShell Wednesday (8 April 2026)
+
+- [Building Terminal UIs with PowerShell 7](https://www.youtube.com/watch?v=p2W1yZ084Vs&list=PL1mL90yFExsix-L0havb8SbZXoYRPol0B&index=3)
 
 #### [PSConfEU MiniCon 2025](https://www.youtube.com/playlist?list=PLDCEho7foSorZKs9Vc7XKU7Dn5jwK2O2L) (14 October 2025)
 
