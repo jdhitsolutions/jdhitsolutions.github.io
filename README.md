@@ -10,9 +10,8 @@ Unfortunately, Jeff doesn't have the resources to provide one-on-one training, b
 
 ### Upcoming Events
 
-- [PSConfEU 2026 - Wiesbaden, Germany](https://psconf.eu) (June 1-4 2026)
-  - PowerShell Scripting Hidden Secrets
-  - Embracing Events in PowerShell
+- [SpiceWorld 2026](https://www.spiceworks.com/spiceworld/) (Nov 12-13 Austin, TX)
+- [Techmentor/Live360](https://live360events.com/events/orlando-.2026/home.aspx) (Nov. 15-20 Orlando,FL)
 
 *Let's connect and see what I can do for you!*
 
@@ -20,11 +19,20 @@ Unfortunately, Jeff doesn't have the resources to provide one-on-one training, b
 
 If I have spoken at a conference that you run, or you would like me to present at a future event, please read my [Public Presentation Policy](https://gist.github.com/jdhitsolutions/d0f1eeae99878a10f8132a44747db47a).
 
+#### [PSConfEU 2026 - Wiesbaden, Germany](https://psconf.eu) (June 1-4 2026)
+
+- [PowerShell Scripting Hidden Secrets]() *video coming*
+- [Embracing Events in PowerShell](https://www.youtube.com/watch?v=iAQOzb0Lpu8&list=PLDCEho7foSorKmHihaqGohyfWSMW5ZYOq&index=4)
+
+All of my session material and demos can be found [here](https://github.com/jdhitsolutions/PSConfEU2026/tree/main/jeffery-hicks)
+
+You might also be interested in this [post-event interview](https://youtu.be/ExlRYkv0IB4) where I talk about PowerShell, the community, and much more.
+
 #### [PowerShell + DevOps Global Summit 2026 - Bellevue, WA](https://powershellsummit.org) (April 13-16 2026)
 
-- Master PowerShell Parameters (video coming)
+- [Mastering PowerShell Parameters](https://www.youtube.com/watch?v=IAC7w4XfQO8&list=PLfeA8kIs7CodKtMv-JeTF7wO9ZIzS2bc8&index=62)
   - session materials can be found at https://github.com/devops-collective-inc/pshsummit26/tree/main/MasterPowerShellParameters-Hicks
-- PowerShell Perspectives (video coming)
+- [PowerShell Perspectives](https://www.youtube.com/watch?v=76I_tXE9q2Y&list=PLfeA8kIs7CodKtMv-JeTF7wO9ZIzS2bc8&index=46)
 
 #### The PowerShell Podcast (13 April 2026)
 
